@@ -25,12 +25,12 @@
                 <repository>
                         <id>deployement</id>
                         <name>internal deployment</name>
-                        <url>http://54.172.166.237:8081/repository/samplerelease/</url>
+                        <url>http://54.87.214.39:8081/repository/samplerelease/</url>
                 </repository>
                 <snapshotRepository>
                         <id>deployement</id>
                         <name>internal snapshot</name>
-                        <url>http://54.172.166.237:8081/repository/newsnapshot/</url>
+                        <url>http://54.87.214.39:8081/repository/newsnapshot/</url>
                 </snapshotRepository>
         </distributionManagement>
 
